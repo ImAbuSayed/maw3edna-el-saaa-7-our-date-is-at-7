@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في هذا الزمان
+> أبحث عنك في كل مكان
+> شوقي إليك نار لا تنطفي
+> أنت الأمل الذي فيه أكتفي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
