@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Maw3edna El Saa'a 7 – Our Date is at 7 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/maw3edna-el-saaa-7-our-date-is-at-7/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
